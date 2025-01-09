@@ -17,7 +17,7 @@ while True:
             app_id="Charging Status",
             title="Fully Charged!",
             msg="Battery is fully charged, please unplug your charger!",
-            icon=r"E:\codes\development\software_development\full_charging_notification\fully_charged_image.ico",
+            icon=r"image.ico",
             duration="short",
         )
         notification.set_audio(audio.Default, loop=False)
