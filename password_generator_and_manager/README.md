@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Passcode Manager is a secure application designed to generate, store, and manage passcodes. It uses MongoDB for storage and Tkinter for the graphical user interface. The application allows users to add, update, and check passcodes securely.
+The Passcode Manager is a secure application designed to generate, store, and manage passcodes. It uses MongoDB for storage and Tkinter for the graphical user interface. The application allows users to add, update, and check passcodes securely by using **Hashing Techniques**.
 
 ## Features
 
